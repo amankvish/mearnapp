@@ -8,4 +8,4 @@ Step 3: cd .\mearnapp\  ( .\ReactJS\mearnapp> dir)
 
 Step 4: npm start
 
-PS C:\Users\amank\Downloads\ReactJS\mearnapp> npm start
+Open Url:  ( http://localhost:3000/ )
