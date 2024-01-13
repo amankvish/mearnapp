@@ -12,7 +12,7 @@ export default function Card() {
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
           <p className="card-text">
-            Some quick example text to build on the card.
+            This is some Importnat text.
           </p>
           <div className="conatiner w-100">
             <select className="m-2 h-100  bg-success rounded">

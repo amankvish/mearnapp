@@ -9,8 +9,12 @@ export default function Home() {
     <div>
       <div> <Navbar /> </div>
       <div> <Carousal /> </div>
-      <div> <Card /> </div>
-      <div> <Card /> </div>
+      <div className='m-3'> <Card />
+            <Card/>
+            <Card/>
+
+      </div>
+
       <div> <Footer /> </div>
     </div>
   )

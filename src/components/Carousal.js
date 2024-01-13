@@ -19,7 +19,7 @@ export default function Carousal() {
                 aria-label="Search"
               />
               <button
-                class="btn btn-outline-success text-white my-2 my-sm-0"
+                className="btn btn-outline-success text-white my-2 my-sm-0"
                 type="submit"
               >
                 Search
@@ -29,21 +29,21 @@ export default function Carousal() {
 
           <div className="carousel-item active">
             <img
-              src="https://source.unsplash.com/random/700x500/?tech"
+              src="https://source.unsplash.com/random/700x500/?burger"
               className="d-block w-100"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
-              src="https://source.unsplash.com/random/700x500/?food"
+              src="https://source.unsplash.com/random/700x500/?maincourse"
               className="d-block w-100"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
-              src="https://source.unsplash.com/random/700x500/?gadget"
+              src="https://source.unsplash.com/random/700x500/?pizza"
               className="d-block w-100"
               alt="..."
             />
