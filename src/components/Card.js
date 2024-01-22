@@ -11,9 +11,7 @@ export default function Card() {
         />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
-          <p className="card-text">
-            This is some Importnat text.
-          </p>
+          <p className="card-text">This is some Importnat text.</p>
           <div className="conatiner w-100">
             <select className="m-2 h-100  bg-success rounded">
               {Array.from(Array(6), (e, i) => {
@@ -64,7 +62,6 @@ export default function Card() {
           </div>
         </div>
       </div>
-
     </div>
   );
 }
